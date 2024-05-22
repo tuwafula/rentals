@@ -73,8 +73,8 @@ bench install-app rentals
 
 This app includes automated tests to ensure functionality. To run the tests, use the following command:
 
-```bench --site irfan.cabs run-tests --app rentals
-
+```bash
+bench --site irfan.cabs run-tests --app rentals
 ```
 
 ### Contributing
