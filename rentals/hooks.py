@@ -104,9 +104,9 @@ fixtures = ["Vehicle Type"]
 # -----------
 # Permissions evaluated in scripted ways
 
-permission_query_conditions = {
-	"Vehicle": "rentals.api.get_query_permission_conditions",
-}
+# permission_query_conditions = {
+# 	"Vehicle": "rentals.api.get_query_permission_conditions",
+# }
 #
 # has_permission = {
 # 	"Event": "frappe.desk.doctype.event.event.has_permission",
