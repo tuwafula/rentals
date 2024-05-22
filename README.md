@@ -1,4 +1,4 @@
-### Rentals
+## Rentals
 
 Manage Rentals in Frappe. This Frappe app helps manage car rentals. The app includes the following main DocTypes
 
