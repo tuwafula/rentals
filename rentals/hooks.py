@@ -6,6 +6,8 @@ app_email = "tush@frappe.io"
 app_license = "mit"
 # required_apps = []
 
+fixtures = ["Vehicle Type"]
+
 # Includes in <head>
 # ------------------
 
